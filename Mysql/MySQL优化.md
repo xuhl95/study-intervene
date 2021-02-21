@@ -106,6 +106,12 @@ select * from user where name = '11' order by age desc; //age 没有索引
 
 - 在索引列上有多个等于条件，这也是一种范围。不能使用索引
 
-https://blog.csdn.net/samjustin1/article/details/52212421
+
+
+参考资料：
+
+- [mysql性能调优](https://cloud.tencent.com/developer/inventory/2509)
+
+
 
 

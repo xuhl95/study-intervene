@@ -8,7 +8,7 @@
 
 - [事务](https://github.com/xuhl95/study-intervene/blob/main/Mysql/事务.md)
 
-- [explain](https://github.com/xuhl95/study-intervene/blob/main/Mysql/MySQL【explain】.md)
+- [explain](https://github.com/xuhl95/study-intervene/blob/main/Mysql/explain.md)
 
 - [索引](https://github.com/xuhl95/study-intervene/blob/main/Mysql/索引.md)
 

@@ -16,6 +16,8 @@
 
 - [mysql索引及其实现原理](https://cloud.tencent.com/developer/inventory/2509/article/1125452)
 
+- [mysqlisam与innodb区别](https://github.com/xuhl95/study-intervene/blob/main/Mysql/myisam%E4%B8%8Einnodb%E5%8C%BA%E5%88%AB.md)
+
 - [mysql锁详解](https://github.com/xuhl95/study-intervene/blob/main/Mysql/mysql锁详解.md)
 
 - [乐观锁/悲观锁]

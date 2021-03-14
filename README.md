@@ -11,3 +11,10 @@
 - [RabbitMQ面试题（总结最全面的面试题）](https://juejin.cn/post/6844904125935665160)
 
 - [TCP、UDP、Socket、HTTP网络编程面试题（总结最全面的面试题）](https://juejin.cn/post/6844904125692379143)
+
+- [基础面试题 — 计算机网络](https://juejin.cn/post/6844903761815535624)
+
+- [排序算法](https://juejin.cn/post/6844903672783044621)
+- [数据结构和算法](https://github.com/xx19941215/light-tips)
+
+- [php面试知识梳理](https://juejin.cn/post/6844903575793958920#heading-0)

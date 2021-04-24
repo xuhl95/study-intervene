@@ -18,3 +18,5 @@
 - [数据结构和算法](https://github.com/xx19941215/light-tips)
 
 - [php面试知识梳理](https://juejin.cn/post/6844903575793958920#heading-0)
+
+- [万字总结，体系化带你全面认识 Nginx](https://juejin.cn/post/6942607113118023710)

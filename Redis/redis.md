@@ -18,6 +18,10 @@
 - [常见问题解析](#常见问题解析)
 - [redis和memcache和mongodb的区别](#redis和memcache和mongodb的区别)
 
+- [redis的五种数据结构和应用场景](https://www.toutiao.com/i6895346550956884491/)
+
+- [内存耗尽后Redis会发生什么](https://www.toutiao.com/i6929303165330342412/)
+
 ### redis 70题解析
 [redis 70题解析](./redis70题解析.pdf)
 

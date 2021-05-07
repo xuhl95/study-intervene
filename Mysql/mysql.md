@@ -38,6 +38,8 @@
 
 - [MySQL性能优化的21个最佳实践](https://github.com/xuhl95/study-intervene/blob/main/MySQL性能优化的21个最佳实践.pdf)
 
+- [count(1)、count(*)、count（字段）的区别](https://www.cnblogs.com/hider/p/11726690.html)
+
 - [InnoDB索引，终于懂了](https://mp.weixin.qq.com/s/39XgTTC2VUVGq0EIlpb3WA)
 
 - [数据库索引，终于懂了](https://mp.weixin.qq.com/s/0x5T-wbAoNVHkKTT61lIUQ)

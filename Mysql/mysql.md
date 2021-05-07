@@ -1,16 +1,14 @@
 复习mysql，整理的资料和笔记
 
-- [SQL标准](https://github.com/xuhl95/study-intervene/blob/main/Mysql/SQL标准.md)
+- [MySQL核心知识点](https://juejin.cn/post/6844904127047139335)
 
 - [数据库三范式](https://github.com/xuhl95/study-intervene/blob/main/Mysql/MySQL三范式.md)
 
-- [存储引擎](https://github.com/xuhl95/study-intervene/blob/main/Mysql/%E5%AD%98%E5%82%A8%E5%BC%95%E6%93%8E.md)
 
 - [事务](https://github.com/xuhl95/study-intervene/blob/main/Mysql/事务.md)
 
-- [explain](https://github.com/xuhl95/study-intervene/blob/main/Mysql/explain.md)
+- [explain](https://www.cnblogs.com/songwenjie/p/9409852.html)
 
-- [索引](https://github.com/xuhl95/study-intervene/blob/main/Mysql/索引.md)
 
 - [MySQL优化](https://github.com/xuhl95/study-intervene/blob/main/Mysql/MySQL%E4%BC%98%E5%8C%96.md)
 
